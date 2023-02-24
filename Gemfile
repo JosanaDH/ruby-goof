@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 5.2.4', '>= 5.2.4.3'
+gem 'rails', '~> 6.1.7', '>= 6.1.7.1'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0', '>= 5.0.7'
 # Use CoffeeScript for .coffee assets and views
