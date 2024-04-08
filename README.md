@@ -32,7 +32,7 @@ Alternatively, you can deploy your own copy of the app using the web-based flow:
 
 ## Documentation
 
-For more information about using Ruby on Heroku, see these Dev Center articles:
+For more information about using Ruby on Heroku, see these Dev Center articles
 
 - [Ruby on Heroku](https://devcenter.heroku.com/categories/ruby)
 - [Getting Started with Ruby on Heroku](https://devcenter.heroku.com/articles/getting-started-with-ruby)
